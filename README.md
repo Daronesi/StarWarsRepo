@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![R2D2](home/lisa/StarWarsRepo/r2d2.png)
+<img src="/home/lisa/StarWarsRepo/r2d2.png" alt="R2D2"
 
 Este repositório serve de exemplo para o curso de Git e Github.
